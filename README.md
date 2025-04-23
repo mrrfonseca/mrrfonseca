@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🛠️ My Skills
 - **Languages**:<div style="display: inline_block">   
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r,python,latex,matlab " /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,latex,matlab " /></a>
 - **Frameworks/Libraries**: <div style="display: inline_block">   
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,pycharm,pytorch,sklearn,selenium " /></a>
 - **DevOps**: <div style="display: inline_block">   
