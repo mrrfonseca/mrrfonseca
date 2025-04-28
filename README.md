@@ -28,7 +28,6 @@ I'm currently diving deeper into:
 
 ## 💡 Fun Facts
 - I love exploring new technologies and applying them to solve challenges.
-- Fun Facts
 - In my free time, I like to read, cook, watch TV series, go for walks, and play video games.
 
 Feel free to connect or collaborate with me on any exciting projects!
